@@ -17,4 +17,6 @@ https://github.com/GushchinDmitry/xcom_fw/blob/main/[файл]
 https://raw.githubusercontent.com/GushchinDmitry/xcom_fw/refs/heads/main/[файл]
 ## Изменения
 ### 28.06.26
-- в файле servers_list.cfg изменены параметры!
+- в файле servers_list.cfg изменена структура параметров!
+### 29.06.26
+- в файл servers_list.cfg добавлен сервер ***xcom_dev***
